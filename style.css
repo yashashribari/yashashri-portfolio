@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+  background: #f7f9fc;
+  color: #222;
+}
+
+header {
+  background: #3758f9;
+  color: white;
+  padding: 50px 20px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 38px;
+  margin: 0;
+}
+
+h2 {
+  color: #3758f9;
+  font-size: 26px;
+  margin-top: 40px;
+}
+
+p {
+  font-size: 18px;
+}
+
+.container {
+  width: 90%;
+  max-width: 800px;
+  margin: auto;
+  padding: 20px;
+}
+
+.skills, .about {
+  background: white;
+  padding: 20px;
+  margin-top: 20px;
+  border-radius: 10px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.08);
+}
